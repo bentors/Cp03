@@ -1,0 +1,42 @@
+*{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.header{
+    background-color: green;
+    width:980px; 
+    height:140px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+
+.sidebar{
+    background-color: green;
+    width:270px; 
+    height:450px;
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.content{
+    background-color: green;
+    width:690px; 
+    height:450px;
+    display: inline-block;
+    text-align: center;
+}
+
+.footer{
+    background-color: green;
+    width:980px; 
+    height:70px;
+    margin-top: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
